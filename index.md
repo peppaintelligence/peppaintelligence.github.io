@@ -1,6 +1,6 @@
 ---
-title: Get Conected
+title: Get Connected
 layout: post
 ---
 
-#Let's conect
+# *Connect the World though Internet.*
