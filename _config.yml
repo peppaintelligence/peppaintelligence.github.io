@@ -1,12 +1,12 @@
 # Site settings
-title: 闫肃的博客
-email: suyan0830@gmail.com
+title: Peppa Intelligence
+email: peppaintelligence@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  闫肃的博客
+  PIA_Chengdu
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: http://yansu.org # the base hostname & protocol for your site
+url: https://peppaintelligence.github.io/ # the base hostname & protocol for your site
 rss_url: /pages/feed.xml
-author: Su Yan
+author: peppaintelligence
 
 # Sidebar filter
 # Choose 'tag' or 'category' as filter in sidebar.
@@ -14,24 +14,24 @@ filter: 'category'
 recent_num: 20
 
 # Social account
-twitter: suyan404
-weibo: suyan0830
-github: suyan
-instagram: suyan404
-linkedin: suyan404
+twitter: 
+weibo: 
+github: peppaintelligence
+instagram: 
+linkedin: 
 
 # avatar and Favicon
-avatar: http://7u2ho6.com1.z0.glb.clouddn.com/site-avatar.png
-favicon: http://7u2ho6.com1.z0.glb.clouddn.com/site-favicon.ico
+avatar: https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1532343953125&di=55016c7628abea280cbbeef44074670a&imgtype=0&src=http%3A%2F%2Fimgsrc.baidu.com%2Fforum%2Fw%3D580%2Fsign%3D587e2aed69d9f2d3201124e799ed8a53%2F8b287aec54e736d10ca4990490504fc2d5626928.jpg
+favicon: https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1532343953125&di=55016c7628abea280cbbeef44074670a&imgtype=0&src=http%3A%2F%2Fimgsrc.baidu.com%2Fforum%2Fw%3D580%2Fsign%3D587e2aed69d9f2d3201124e799ed8a53%2F8b287aec54e736d10ca4990490504fc2d5626928.jpg
 
 # disqus config
 disqus:
-  shortname: suyan-zh
+  shortname: 
 
 # google analytics config
 ga:
   id: UA-54767140-1
-  url: yansu.org
+  url: peppaintelligence.github.io
 
 # Build settings
 permalink: /:year/:month/:day/:title.html
