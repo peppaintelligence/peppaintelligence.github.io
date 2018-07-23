@@ -4,7 +4,7 @@ email: peppaintelligence@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   peppaintelligence
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: https://peppaintelligence.github.io/ # the base hostname & protocol for your site
+url: https://peppaintelligence.github.io # the base hostname & protocol for your site
 rss_url: /pages/feed.xml
 author: peppaintelligence
 
